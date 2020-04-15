@@ -1,0 +1,51 @@
+.navbar{
+    width: 100%;
+    margin: 0px;
+    height: auto;
+   
+    
+}
+.hamburger {
+    background: rgb(101,114,238);
+    width: 100%;
+    height: 50px;
+    display: none;
+}
+
+.hamburger-img {
+    width: 50px;
+    height: 50px;
+    float: right;
+    padding-right: 10px;
+}
+
+.nav {
+    background: rgb(101,114,238);
+    width: 100%;
+    height: 50px;
+}
+
+.logo {
+    padding-top: 10px;
+    float: left;
+    color: #fff;
+    width: 20%;
+    padding-left: 15px;
+    margin: 0px;
+}
+.nav-link {
+    width: 80%;
+    height: 50px;
+    margin: 0px;
+    padding-top: 10px;
+    float: right;
+    text-align: right;
+}
+
+.nav-link li {
+    display: inline-block;
+    padding-right: 50px;
+    color: #fff;
+    
+}
+
